@@ -27,7 +27,11 @@
 
 [![20% Discount off Scrimba](https://i.ibb.co/HD3x73NB/scrimbassadors-cta.png)](https://scrimba.com/?via=u0oqip)
 
-- 📫 How to reach me @hhenrydev on Twitter or LinkedIn @hughnhenry.
+### 💬 Let's Chat!
+Feel free to reach out if you want to collaborate on a project, talk about web development, photography or just chat!
+
+![Profile Views](https://komarev.com/ghpvc/?username=hughieDev&color=blueviolet)
+
 
 <!---
 hughieDev/hughieDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
