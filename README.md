@@ -4,7 +4,7 @@
  - 💞️ **What I care about:** Enriching UI/UX, helping others and volunteerism
  - 🛠️ **Tech I'm using:**  JavaScript, HTML, CSS, AI, SQL, Adobe Photoshop, Lightroom
  - 🌱 **Currently learning:** Full-stack Development, UI/UX design
- - 👀 **Fun Fact:** I do professional photography on the side, specializing in portraits & wedding photography  
+ - 👀 **Fun Fact:** I do professional photography on the side in portraits & wedding photography  
 
 ### 🚀 My Toolkit
 
